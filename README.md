@@ -34,4 +34,5 @@ This is a Python-based Tic-Tac-Toe game that allows both **multiplayer** and **s
 ## Example
 
 When running the game in single-player mode, the game interface will look like this:
+![Tic-Tac-Toe Screenshot](Screenshot%202024-12-21%20191111.png)
 
